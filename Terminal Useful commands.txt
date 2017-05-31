@@ -1,0 +1,2 @@
+compile a program (hello.c)						- gcc -o hello 
+Run a program (hello.c) (After compiling the program)			- ./hello

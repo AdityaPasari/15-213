@@ -1,0 +1,11 @@
+To untar a tar file 		- tar xvf datalab-handout.tar
+To open the file in vim  	- vim bits.c 
+To exit vim after saving        - shift + z + z
+To run for points (solution) 	- ./btest
+To check for rules too (legal)	- ./dlc bits.c
+Autolab uses this  		- ./driver.pl
+Different options for help 	./btest --help
+
+Runs only 1 function 		- ./btest -f bitXor
+With arguments			- ./btest -f bitXor -1 9 -2 34
+Compile the program		- make
